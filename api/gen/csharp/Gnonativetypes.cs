@@ -128,29 +128,38 @@ namespace Land.Gno.Gnonative.V1 {
             "Ug1hY2NvdW50TnVtYmVyEicKD3NlcXVlbmNlX251bWJlchgGIAEoBFIOc2Vx",
             "dWVuY2VOdW1iZXIiTQoTRXN0aW1hdGVHYXNSZXNwb25zZRIXCgd0eF9qc29u",
             "GAEgASgJUgZ0eEpzb24SHQoKZ2FzX3dhbnRlZBgCIAEoElIJZ2FzV2FudGVk",
-            "IjsKGEJyb2FkY2FzdFR4Q29tbWl0UmVxdWVzdBIfCg5zaWduZWRfdHhfanNv",
-            "bhgBIAEoCVIHdHhfanNvbiJfChlCcm9hZGNhc3RUeENvbW1pdFJlc3BvbnNl",
-            "EhYKBnJlc3VsdBgBIAEoDFIGcmVzdWx0EhIKBGhhc2gYAiABKAxSBGhhc2gS",
-            "FgoGaGVpZ2h0GAMgASgSUgZoZWlnaHQiMgoWQWRkcmVzc1RvQmVjaDMyUmVx",
-            "dWVzdBIYCgdhZGRyZXNzGAEgASgMUgdhZGRyZXNzIkAKF0FkZHJlc3NUb0Jl",
-            "Y2gzMlJlc3BvbnNlEiUKDmJlY2gzMl9hZGRyZXNzGAEgASgJUg1iZWNoMzJB",
-            "ZGRyZXNzIkEKGEFkZHJlc3NGcm9tQmVjaDMyUmVxdWVzdBIlCg5iZWNoMzJf",
-            "YWRkcmVzcxgBIAEoCVINYmVjaDMyQWRkcmVzcyI1ChlBZGRyZXNzRnJvbUJl",
-            "Y2gzMlJlc3BvbnNlEhgKB2FkZHJlc3MYASABKAxSB2FkZHJlc3MiOAoaQWRk",
-            "cmVzc0Zyb21NbmVtb25pY1JlcXVlc3QSGgoIbW5lbW9uaWMYASABKAlSCG1u",
-            "ZW1vbmljIjcKG0FkZHJlc3NGcm9tTW5lbW9uaWNSZXNwb25zZRIYCgdhZGRy",
-            "ZXNzGAEgASgMUgdhZGRyZXNzIjEKG1ZhbGlkYXRlTW5lbW9uaWNXb3JkUmVx",
-            "dWVzdBISCgR3b3JkGAEgASgJUgR3b3JkIjQKHFZhbGlkYXRlTW5lbW9uaWNX",
-            "b3JkUmVzcG9uc2USFAoFdmFsaWQYASABKAhSBXZhbGlkIjcKHVZhbGlkYXRl",
-            "TW5lbW9uaWNQaHJhc2VSZXF1ZXN0EhYKBnBocmFzZRgBIAEoCVIGcGhyYXNl",
-            "IjYKHlZhbGlkYXRlTW5lbW9uaWNQaHJhc2VSZXNwb25zZRIUCgV2YWxpZBgB",
-            "IAEoCFIFdmFsaWQiIgoMSGVsbG9SZXF1ZXN0EhIKBG5hbWUYASABKAlSBE5h",
-            "bWUiKwoNSGVsbG9SZXNwb25zZRIaCghncmVldGluZxgBIAEoCVIIR3JlZXRp",
-            "bmciKAoSSGVsbG9TdHJlYW1SZXF1ZXN0EhIKBG5hbWUYASABKAlSBE5hbWUi",
-            "MQoTSGVsbG9TdHJlYW1SZXNwb25zZRIaCghncmVldGluZxgBIAEoCVIIR3Jl",
-            "ZXRpbmciMAoYR05PTkFUSVZFVFlQRVNfQnl0ZXNMaXN0EhQKBVZhbHVlGAEg",
-            "AygMUgVWYWx1ZUIpWidnaXRodWIuY29tL2dub2xhbmcvZ25vbmF0aXZlL2Fw",
-            "aS9nZW4vZ29iBnByb3RvMw=="));
+            "IqICChVFc3RpbWF0ZUdhc0ZlZVJlcXVlc3QSFwoHdHhfanNvbhgBIAEoCVIG",
+            "dHhKc29uEhgKB2FkZHJlc3MYAiABKAxSB2FkZHJlc3MSLgoTZ2FzX3NlY3Vy",
+            "aXR5X21hcmdpbhgDIAEoDVIRZ2FzU2VjdXJpdHlNYXJnaW4SOQoZZ2FzX3By",
+            "aWNlX3NlY3VyaXR5X21hcmdpbhgEIAEoDVIWZ2FzUHJpY2VTZWN1cml0eU1h",
+            "cmdpbhIbCgl1cGRhdGVfdHgYBSABKAhSCHVwZGF0ZVR4EiUKDmFjY291bnRf",
+            "bnVtYmVyGAYgASgEUg1hY2NvdW50TnVtYmVyEicKD3NlcXVlbmNlX251bWJl",
+            "chgHIAEoBFIOc2VxdWVuY2VOdW1iZXIigQEKFkVzdGltYXRlR2FzRmVlUmVz",
+            "cG9uc2USFwoHdHhfanNvbhgBIAEoCVIGdHhKc29uEh0KCmdhc193YW50ZWQY",
+            "AiABKBJSCWdhc1dhbnRlZBIvCgNmZWUYAyABKAsyGy5sYW5kLmduby5nbm9u",
+            "YXRpdmUudjEuQ29pblIFcHJpY2UiOwoYQnJvYWRjYXN0VHhDb21taXRSZXF1",
+            "ZXN0Eh8KDnNpZ25lZF90eF9qc29uGAEgASgJUgd0eF9qc29uIl8KGUJyb2Fk",
+            "Y2FzdFR4Q29tbWl0UmVzcG9uc2USFgoGcmVzdWx0GAEgASgMUgZyZXN1bHQS",
+            "EgoEaGFzaBgCIAEoDFIEaGFzaBIWCgZoZWlnaHQYAyABKBJSBmhlaWdodCIy",
+            "ChZBZGRyZXNzVG9CZWNoMzJSZXF1ZXN0EhgKB2FkZHJlc3MYASABKAxSB2Fk",
+            "ZHJlc3MiQAoXQWRkcmVzc1RvQmVjaDMyUmVzcG9uc2USJQoOYmVjaDMyX2Fk",
+            "ZHJlc3MYASABKAlSDWJlY2gzMkFkZHJlc3MiQQoYQWRkcmVzc0Zyb21CZWNo",
+            "MzJSZXF1ZXN0EiUKDmJlY2gzMl9hZGRyZXNzGAEgASgJUg1iZWNoMzJBZGRy",
+            "ZXNzIjUKGUFkZHJlc3NGcm9tQmVjaDMyUmVzcG9uc2USGAoHYWRkcmVzcxgB",
+            "IAEoDFIHYWRkcmVzcyI4ChpBZGRyZXNzRnJvbU1uZW1vbmljUmVxdWVzdBIa",
+            "CghtbmVtb25pYxgBIAEoCVIIbW5lbW9uaWMiNwobQWRkcmVzc0Zyb21NbmVt",
+            "b25pY1Jlc3BvbnNlEhgKB2FkZHJlc3MYASABKAxSB2FkZHJlc3MiMQobVmFs",
+            "aWRhdGVNbmVtb25pY1dvcmRSZXF1ZXN0EhIKBHdvcmQYASABKAlSBHdvcmQi",
+            "NAocVmFsaWRhdGVNbmVtb25pY1dvcmRSZXNwb25zZRIUCgV2YWxpZBgBIAEo",
+            "CFIFdmFsaWQiNwodVmFsaWRhdGVNbmVtb25pY1BocmFzZVJlcXVlc3QSFgoG",
+            "cGhyYXNlGAEgASgJUgZwaHJhc2UiNgoeVmFsaWRhdGVNbmVtb25pY1BocmFz",
+            "ZVJlc3BvbnNlEhQKBXZhbGlkGAEgASgIUgV2YWxpZCIiCgxIZWxsb1JlcXVl",
+            "c3QSEgoEbmFtZRgBIAEoCVIETmFtZSIrCg1IZWxsb1Jlc3BvbnNlEhoKCGdy",
+            "ZWV0aW5nGAEgASgJUghHcmVldGluZyIoChJIZWxsb1N0cmVhbVJlcXVlc3QS",
+            "EgoEbmFtZRgBIAEoCVIETmFtZSIxChNIZWxsb1N0cmVhbVJlc3BvbnNlEhoK",
+            "CGdyZWV0aW5nGAEgASgJUghHcmVldGluZyIwChhHTk9OQVRJVkVUWVBFU19C",
+            "eXRlc0xpc3QSFAoFVmFsdWUYASADKAxSBVZhbHVlQilaJ2dpdGh1Yi5jb20v",
+            "Z25vbGFuZy9nbm9uYXRpdmUvYXBpL2dlbi9nb2IGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -215,6 +224,8 @@ namespace Land.Gno.Gnonative.V1 {
             new pbr::GeneratedClrTypeInfo(typeof(global::Land.Gno.Gnonative.V1.SignTxResponse), global::Land.Gno.Gnonative.V1.SignTxResponse.Parser, new[]{ "SignedTxJson" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Land.Gno.Gnonative.V1.EstimateGasRequest), global::Land.Gno.Gnonative.V1.EstimateGasRequest.Parser, new[]{ "TxJson", "Address", "SecurityMargin", "UpdateTx", "AccountNumber", "SequenceNumber" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Land.Gno.Gnonative.V1.EstimateGasResponse), global::Land.Gno.Gnonative.V1.EstimateGasResponse.Parser, new[]{ "TxJson", "GasWanted" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Land.Gno.Gnonative.V1.EstimateGasFeeRequest), global::Land.Gno.Gnonative.V1.EstimateGasFeeRequest.Parser, new[]{ "TxJson", "Address", "GasSecurityMargin", "GasPriceSecurityMargin", "UpdateTx", "AccountNumber", "SequenceNumber" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::Land.Gno.Gnonative.V1.EstimateGasFeeResponse), global::Land.Gno.Gnonative.V1.EstimateGasFeeResponse.Parser, new[]{ "TxJson", "GasWanted", "Fee" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Land.Gno.Gnonative.V1.BroadcastTxCommitRequest), global::Land.Gno.Gnonative.V1.BroadcastTxCommitRequest.Parser, new[]{ "SignedTxJson" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Land.Gno.Gnonative.V1.BroadcastTxCommitResponse), global::Land.Gno.Gnonative.V1.BroadcastTxCommitResponse.Parser, new[]{ "Result", "Hash", "Height" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::Land.Gno.Gnonative.V1.AddressToBech32Request), global::Land.Gno.Gnonative.V1.AddressToBech32Request.Parser, new[]{ "Address" }, null, null, null, null),
@@ -14071,6 +14082,741 @@ namespace Land.Gno.Gnonative.V1 {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class EstimateGasFeeRequest : pb::IMessage<EstimateGasFeeRequest>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<EstimateGasFeeRequest> _parser = new pb::MessageParser<EstimateGasFeeRequest>(() => new EstimateGasFeeRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<EstimateGasFeeRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[61]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public EstimateGasFeeRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public EstimateGasFeeRequest(EstimateGasFeeRequest other) : this() {
+      txJson_ = other.txJson_;
+      address_ = other.address_;
+      gasSecurityMargin_ = other.gasSecurityMargin_;
+      gasPriceSecurityMargin_ = other.gasPriceSecurityMargin_;
+      updateTx_ = other.updateTx_;
+      accountNumber_ = other.accountNumber_;
+      sequenceNumber_ = other.sequenceNumber_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public EstimateGasFeeRequest Clone() {
+      return new EstimateGasFeeRequest(this);
+    }
+
+    /// <summary>Field number for the "tx_json" field.</summary>
+    public const int TxJsonFieldNumber = 1;
+    private string txJson_ = "";
+    /// <summary>
+    /// The JSON encoding of the unsigned transaction (from MakeCallTx, etc.)
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string TxJson {
+      get { return txJson_; }
+      set {
+        txJson_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "address" field.</summary>
+    public const int AddressFieldNumber = 2;
+    private pb::ByteString address_ = pb::ByteString.Empty;
+    /// <summary>
+    /// The address of the account to sign the transaction
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString Address {
+      get { return address_; }
+      set {
+        address_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "gas_security_margin" field.</summary>
+    public const int GasSecurityMarginFieldNumber = 3;
+    private uint gasSecurityMargin_;
+    /// <summary>
+    /// The security margin to apply to the estimated gas amount.
+    /// This number represents a decimal numeral value with two decimals precision, without the decimal separator. E.g. 1 means 0.01 and 10000 means 100.00.
+    /// It will be multiplied by the estimated gas amount.
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint GasSecurityMargin {
+      get { return gasSecurityMargin_; }
+      set {
+        gasSecurityMargin_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "gas_price_security_margin" field.</summary>
+    public const int GasPriceSecurityMarginFieldNumber = 4;
+    private uint gasPriceSecurityMargin_;
+    /// <summary>
+    /// The security margin to apply to the gas price.
+    /// This number represents a decimal numeral value with two decimals precision, without the decimal separator. E.g. 1 means 0.01 and 10000 means 100.00.
+    /// It will be multiplied by the retrieved gas price.
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint GasPriceSecurityMargin {
+      get { return gasPriceSecurityMargin_; }
+      set {
+        gasPriceSecurityMargin_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "update_tx" field.</summary>
+    public const int UpdateTxFieldNumber = 5;
+    private bool updateTx_;
+    /// <summary>
+    /// The update boolean to update the gas wanted field in the transaction if true.
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool UpdateTx {
+      get { return updateTx_; }
+      set {
+        updateTx_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "account_number" field.</summary>
+    public const int AccountNumberFieldNumber = 6;
+    private ulong accountNumber_;
+    /// <summary>
+    /// The signer's account number on the blockchain. If 0 then query the blockchain for the value.
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong AccountNumber {
+      get { return accountNumber_; }
+      set {
+        accountNumber_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "sequence_number" field.</summary>
+    public const int SequenceNumberFieldNumber = 7;
+    private ulong sequenceNumber_;
+    /// <summary>
+    /// The sequence number of the signer's transactions on the blockchain. If 0 then query the blockchain for the value.
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong SequenceNumber {
+      get { return sequenceNumber_; }
+      set {
+        sequenceNumber_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as EstimateGasFeeRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(EstimateGasFeeRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (TxJson != other.TxJson) return false;
+      if (Address != other.Address) return false;
+      if (GasSecurityMargin != other.GasSecurityMargin) return false;
+      if (GasPriceSecurityMargin != other.GasPriceSecurityMargin) return false;
+      if (UpdateTx != other.UpdateTx) return false;
+      if (AccountNumber != other.AccountNumber) return false;
+      if (SequenceNumber != other.SequenceNumber) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (TxJson.Length != 0) hash ^= TxJson.GetHashCode();
+      if (Address.Length != 0) hash ^= Address.GetHashCode();
+      if (GasSecurityMargin != 0) hash ^= GasSecurityMargin.GetHashCode();
+      if (GasPriceSecurityMargin != 0) hash ^= GasPriceSecurityMargin.GetHashCode();
+      if (UpdateTx != false) hash ^= UpdateTx.GetHashCode();
+      if (AccountNumber != 0UL) hash ^= AccountNumber.GetHashCode();
+      if (SequenceNumber != 0UL) hash ^= SequenceNumber.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (TxJson.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(TxJson);
+      }
+      if (Address.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteBytes(Address);
+      }
+      if (GasSecurityMargin != 0) {
+        output.WriteRawTag(24);
+        output.WriteUInt32(GasSecurityMargin);
+      }
+      if (GasPriceSecurityMargin != 0) {
+        output.WriteRawTag(32);
+        output.WriteUInt32(GasPriceSecurityMargin);
+      }
+      if (UpdateTx != false) {
+        output.WriteRawTag(40);
+        output.WriteBool(UpdateTx);
+      }
+      if (AccountNumber != 0UL) {
+        output.WriteRawTag(48);
+        output.WriteUInt64(AccountNumber);
+      }
+      if (SequenceNumber != 0UL) {
+        output.WriteRawTag(56);
+        output.WriteUInt64(SequenceNumber);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (TxJson.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(TxJson);
+      }
+      if (Address.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteBytes(Address);
+      }
+      if (GasSecurityMargin != 0) {
+        output.WriteRawTag(24);
+        output.WriteUInt32(GasSecurityMargin);
+      }
+      if (GasPriceSecurityMargin != 0) {
+        output.WriteRawTag(32);
+        output.WriteUInt32(GasPriceSecurityMargin);
+      }
+      if (UpdateTx != false) {
+        output.WriteRawTag(40);
+        output.WriteBool(UpdateTx);
+      }
+      if (AccountNumber != 0UL) {
+        output.WriteRawTag(48);
+        output.WriteUInt64(AccountNumber);
+      }
+      if (SequenceNumber != 0UL) {
+        output.WriteRawTag(56);
+        output.WriteUInt64(SequenceNumber);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (TxJson.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(TxJson);
+      }
+      if (Address.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeBytesSize(Address);
+      }
+      if (GasSecurityMargin != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(GasSecurityMargin);
+      }
+      if (GasPriceSecurityMargin != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(GasPriceSecurityMargin);
+      }
+      if (UpdateTx != false) {
+        size += 1 + 1;
+      }
+      if (AccountNumber != 0UL) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt64Size(AccountNumber);
+      }
+      if (SequenceNumber != 0UL) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt64Size(SequenceNumber);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(EstimateGasFeeRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.TxJson.Length != 0) {
+        TxJson = other.TxJson;
+      }
+      if (other.Address.Length != 0) {
+        Address = other.Address;
+      }
+      if (other.GasSecurityMargin != 0) {
+        GasSecurityMargin = other.GasSecurityMargin;
+      }
+      if (other.GasPriceSecurityMargin != 0) {
+        GasPriceSecurityMargin = other.GasPriceSecurityMargin;
+      }
+      if (other.UpdateTx != false) {
+        UpdateTx = other.UpdateTx;
+      }
+      if (other.AccountNumber != 0UL) {
+        AccountNumber = other.AccountNumber;
+      }
+      if (other.SequenceNumber != 0UL) {
+        SequenceNumber = other.SequenceNumber;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+      if ((tag & 7) == 4) {
+        // Abort on any end group tag.
+        return;
+      }
+      switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            TxJson = input.ReadString();
+            break;
+          }
+          case 18: {
+            Address = input.ReadBytes();
+            break;
+          }
+          case 24: {
+            GasSecurityMargin = input.ReadUInt32();
+            break;
+          }
+          case 32: {
+            GasPriceSecurityMargin = input.ReadUInt32();
+            break;
+          }
+          case 40: {
+            UpdateTx = input.ReadBool();
+            break;
+          }
+          case 48: {
+            AccountNumber = input.ReadUInt64();
+            break;
+          }
+          case 56: {
+            SequenceNumber = input.ReadUInt64();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+      if ((tag & 7) == 4) {
+        // Abort on any end group tag.
+        return;
+      }
+      switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            TxJson = input.ReadString();
+            break;
+          }
+          case 18: {
+            Address = input.ReadBytes();
+            break;
+          }
+          case 24: {
+            GasSecurityMargin = input.ReadUInt32();
+            break;
+          }
+          case 32: {
+            GasPriceSecurityMargin = input.ReadUInt32();
+            break;
+          }
+          case 40: {
+            UpdateTx = input.ReadBool();
+            break;
+          }
+          case 48: {
+            AccountNumber = input.ReadUInt64();
+            break;
+          }
+          case 56: {
+            SequenceNumber = input.ReadUInt64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class EstimateGasFeeResponse : pb::IMessage<EstimateGasFeeResponse>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<EstimateGasFeeResponse> _parser = new pb::MessageParser<EstimateGasFeeResponse>(() => new EstimateGasFeeResponse());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<EstimateGasFeeResponse> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[62]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public EstimateGasFeeResponse() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public EstimateGasFeeResponse(EstimateGasFeeResponse other) : this() {
+      txJson_ = other.txJson_;
+      gasWanted_ = other.gasWanted_;
+      fee_ = other.fee_ != null ? other.fee_.Clone() : null;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public EstimateGasFeeResponse Clone() {
+      return new EstimateGasFeeResponse(this);
+    }
+
+    /// <summary>Field number for the "tx_json" field.</summary>
+    public const int TxJsonFieldNumber = 1;
+    private string txJson_ = "";
+    /// <summary>
+    /// The JSON encoding of the unsigned transaction
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string TxJson {
+      get { return txJson_; }
+      set {
+        txJson_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "gas_wanted" field.</summary>
+    public const int GasWantedFieldNumber = 2;
+    private long gasWanted_;
+    /// <summary>
+    /// The estimated gas wanted for the transaction
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public long GasWanted {
+      get { return gasWanted_; }
+      set {
+        gasWanted_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "fee" field.</summary>
+    public const int FeeFieldNumber = 3;
+    private global::Land.Gno.Gnonative.V1.Coin fee_;
+    /// <summary>
+    /// The estimated fee for the transaction
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::Land.Gno.Gnonative.V1.Coin Fee {
+      get { return fee_; }
+      set {
+        fee_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as EstimateGasFeeResponse);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(EstimateGasFeeResponse other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (TxJson != other.TxJson) return false;
+      if (GasWanted != other.GasWanted) return false;
+      if (!object.Equals(Fee, other.Fee)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (TxJson.Length != 0) hash ^= TxJson.GetHashCode();
+      if (GasWanted != 0L) hash ^= GasWanted.GetHashCode();
+      if (fee_ != null) hash ^= Fee.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (TxJson.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(TxJson);
+      }
+      if (GasWanted != 0L) {
+        output.WriteRawTag(16);
+        output.WriteSInt64(GasWanted);
+      }
+      if (fee_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Fee);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (TxJson.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(TxJson);
+      }
+      if (GasWanted != 0L) {
+        output.WriteRawTag(16);
+        output.WriteSInt64(GasWanted);
+      }
+      if (fee_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Fee);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (TxJson.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(TxJson);
+      }
+      if (GasWanted != 0L) {
+        size += 1 + pb::CodedOutputStream.ComputeSInt64Size(GasWanted);
+      }
+      if (fee_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Fee);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(EstimateGasFeeResponse other) {
+      if (other == null) {
+        return;
+      }
+      if (other.TxJson.Length != 0) {
+        TxJson = other.TxJson;
+      }
+      if (other.GasWanted != 0L) {
+        GasWanted = other.GasWanted;
+      }
+      if (other.fee_ != null) {
+        if (fee_ == null) {
+          Fee = new global::Land.Gno.Gnonative.V1.Coin();
+        }
+        Fee.MergeFrom(other.Fee);
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+      if ((tag & 7) == 4) {
+        // Abort on any end group tag.
+        return;
+      }
+      switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            TxJson = input.ReadString();
+            break;
+          }
+          case 16: {
+            GasWanted = input.ReadSInt64();
+            break;
+          }
+          case 26: {
+            if (fee_ == null) {
+              Fee = new global::Land.Gno.Gnonative.V1.Coin();
+            }
+            input.ReadMessage(Fee);
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+      if ((tag & 7) == 4) {
+        // Abort on any end group tag.
+        return;
+      }
+      switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            TxJson = input.ReadString();
+            break;
+          }
+          case 16: {
+            GasWanted = input.ReadSInt64();
+            break;
+          }
+          case 26: {
+            if (fee_ == null) {
+              Fee = new global::Land.Gno.Gnonative.V1.Coin();
+            }
+            input.ReadMessage(Fee);
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class BroadcastTxCommitRequest : pb::IMessage<BroadcastTxCommitRequest>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
@@ -14085,7 +14831,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[61]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[63]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14286,7 +15032,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[62]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[64]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14564,7 +15310,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[63]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[65]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14762,7 +15508,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[64]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[66]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -14960,7 +15706,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[65]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[67]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15158,7 +15904,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[66]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[68]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15356,7 +16102,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[67]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[69]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15554,7 +16300,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[68]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[70]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15752,7 +16498,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[69]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[71]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -15950,7 +16696,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[70]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[72]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16148,7 +16894,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[71]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[73]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16346,7 +17092,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[72]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[74]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16544,7 +17290,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[73]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[75]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16742,7 +17488,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[74]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[76]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -16940,7 +17686,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[75]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[77]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17138,7 +17884,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[76]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[78]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -17336,7 +18082,7 @@ namespace Land.Gno.Gnonative.V1 {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[77]; }
+      get { return global::Land.Gno.Gnonative.V1.GnonativetypesReflection.Descriptor.MessageTypes[79]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]

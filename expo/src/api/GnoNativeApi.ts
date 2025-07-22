@@ -20,6 +20,7 @@ import {
   SignTxResponse,
   RotatePasswordResponse,
   EstimateGasResponse,
+  EstimateGasFeeResponse,
 } from './vendor/gnonativetypes_pb';
 import { GnoNativeService } from './vendor/rpc_pb';
 import { GoBridge, GoBridgeInterface } from '../GoBridge';
@@ -116,6 +117,28 @@ export class GnoNativeApi implements GnoKeyApi, GoBridgeInterface {
       txJson,
       address,
       securityMargin,
+      updateTx,
+      accountNumber,
+      sequenceNumber,
+    });
+    return response;
+  }
+
+  async estimateGasFee(
+    txJson: string,
+    address: Uint8Array,
+    gasSecurityMargin: number,
+    gasPriceSecurityMargin: number,
+    updateTx: boolean,
+    accountNumber: bigint = BigInt(0),
+    sequenceNumber: bigint = BigInt(0),
+  ): Promise<EstimateGasFeeResponse> {
+    const client = this.#getClient();
+    const response = client.estimateGasFee({
+      txJson,
+      address,
+      gasSecurityMargin,
+      gasPriceSecurityMargin,
       updateTx,
       accountNumber,
       sequenceNumber,
